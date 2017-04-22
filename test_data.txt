@@ -1,0 +1,100 @@
+0,0,287757657,Maun,D,Traceymccabe,864,Sabina Street,6c6,Battleview,ND,58714
+1,64,461814412,Duparc,A,Mohrmann,337,Stabile Parkway,4c1,Blodgett,MO,63824
+1,55,461814412,Duparc,A,Mohrmann,337,Stabile Parkway,4c1,Blodgett,MO,63824
+1,54,461814412,Duparc,A,Mohrmann,337,Stabile Parkway,4c1,Blodgett,MO,63824
+1,48,461814412,Duparc,A,Mohrmann,337,Stabile Parkway,4c1,Blodgett,MO,63824
+1,14,461814412,Duparc,A,Mohrmann,337,Stabile Parkway,4c1,Blodgett,MO,63824
+1,63,461814412,Duparc,A,Mohrmann,337,Stabile Parkway,4c1,Blodgett,MO,63824
+1,79,461814412,Duparc,A,Mohrmann,337,Stabile Parkway,4c1,Blodgett,MO,63824
+1,72,461814412,Duparc,A,Mohrmann,337,Stabile Parkway,4c1,Blodgett,MO,63824
+1,1,461814412,Duparc,A,Mohrmann,337,Stabile Parkway,4c1,Blodgett,MO,63824
+10,10,422427451,Kwee,E,Moskal,60,Strauss Parkway,0l6,Bickleton,WA,99322
+11,82,468532834,Zola,N,Diprete,123,Grahame Ave,2j7,Springerville,AZ,85938
+11,11,468532834,Zola,N,Diprete,123,Grahame Ave,2j7,Springerville,AZ,85938
+11,52,468532834,Zola,N,Diprete,123,Grahame Ave,2j7,Springerville,AZ,85938
+11,72,468532834,Zola,N,Diprete,123,Grahame Ave,2j7,Springerville,AZ,85938
+11,68,468532834,Zola,N,Diprete,123,Grahame Ave,2j7,Springerville,AZ,85938
+11,18,468532834,Zola,N,Diprete,123,Grahame Ave,2j7,Springerville,AZ,85938
+11,80,468532834,Zola,N,Diprete,123,Grahame Ave,2j7,Springerville,AZ,85938
+18,45,386112762,Cookie,L,Ab,674,Basi Street,1s3,Cordova,AK,99574
+18,67,386112762,Cookie,L,Ab,674,Basi Street,1s3,Cordova,AK,99574
+18,87,386112762,Cookie,L,Ab,674,Basi Street,1s3,Cordova,AK,99574
+18,78,386112762,Cookie,L,Ab,674,Basi Street,1s3,Cordova,AK,99574
+18,92,386112762,Cookie,L,Ab,674,Basi Street,1s3,Cordova,AK,99574
+18,18,386112762,Cookie,L,Ab,674,Basi Street,1s3,Cordova,AK,99574
+24,31,502447086,Nashir,K,Galdini,702,Soohong Avenue,6l3,Harbor Beach,MI,48441
+24,110,502447086,Nashir,K,Galdini,702,Soohong Avenue,6l3,Harbor Beach,MI,48441
+24,24,502447086,Nashir,K,Galdini,702,Soohong Avenue,6l3,Harbor Beach,MI,48441
+27,59,360863432,Kubias,B,Meha,72,Crescenzo St,2u4,Mc Naughton,WI,54543
+27,111,360863432,Kubias,B,Meha,72,Crescenzo St,2u4,Mc Naughton,WI,54543
+27,54,360863432,Kubias,B,Meha,72,Crescenzo St,2u4,Mc Naughton,WI,54543
+27,94,360863432,Kubias,B,Meha,72,Crescenzo St,2u4,Mc Naughton,WI,54543
+27,27,360863432,Kubias,B,Meha,72,Crescenzo St,2u4,Mc Naughton,WI,54543
+27,78,360863432,Kubias,B,Meha,72,Crescenzo St,2u4,Mc Naughton,WI,54543
+27,33,360863432,Kubias,B,Meha,72,Crescenzo St,2u4,Mc Naughton,WI,54543
+27,56,360863432,Kubias,B,Meha,72,Crescenzo St,2u4,Mc Naughton,WI,54543
+27,108,360863432,Kubias,B,Meha,72,Crescenzo St,2u4,Mc Naughton,WI,54543
+36,90,520244226,Siami,Y,Arnone,388,Viavant Street,0b3,Fort Lee,VA,23801
+36,105,520244226,Siami,Y,Arnone,388,Viavant Street,0b3,Fort Lee,VA,23801
+36,102,520244226,Siami,Y,Arnone,388,Viavant Street,0b3,Fort Lee,VA,23801
+36,78,520244226,Siami,Y,Arnone,388,Viavant Street,0b3,Fort Lee,VA,23801
+36,36,520244226,Siami,Y,Arnone,388,Viavant Street,0b3,Fort Lee,VA,23801
+41,41,668084201,Tandus,U,Jumat,968,Griesinger Street,7r4,Hickory Withe,TN,38043
+41,76,668084201,Tandus,U,Jumat,968,Griesinger Street,7r4,Hickory Withe,TN,38043
+41,50,668084201,Tandus,U,Jumat,968,Griesinger Street,7r4,Hickory Withe,TN,38043
+44,132,121465025,Mercado,A,Gillard,631,Rianon St,1z3,Rubicon,WI,53078
+44,44,121465025,Mercado,A,Gillard,631,Rianon St,1z3,Rubicon,WI,53078
+44,100,121465025,Mercado,A,Gillard,631,Rianon St,1z3,Rubicon,WI,53078
+44,114,121465025,Mercado,A,Gillard,631,Rianon St,1z3,Rubicon,WI,53078
+44,106,121465025,Mercado,A,Gillard,631,Rianon St,1z3,Rubicon,WI,53078
+49,134,362028417,Shahan,N,Jamesmichael,841,Stanislaw,3o1,Evansville,IN,47735
+49,93,362028417,Shahan,N,Jamesmichael,841,Stanislaw,3o1,Evansville,IN,47735
+49,63,362028417,Shahan,N,Jamesmichael,841,Stanislaw,3o1,Evansville,IN,47735
+49,145,362028417,Shahan,N,Jamesmichael,841,Stanislaw,3o1,Evansville,IN,47735
+49,137,362028417,Shahan,N,Jamesmichael,841,Stanislaw,3o1,Evansville,IN,47735
+49,49,362028417,Shahan,N,Jamesmichael,841,Stanislaw,3o1,Evansville,IN,47735
+49,119,362028417,Shahan,N,Jamesmichael,841,Stanislaw,3o1,Evansville,IN,47735
+49,111,362028417,Shahan,N,Jamesmichael,841,Stanislaw,3o1,Evansville,IN,47735
+57,57,624020510,Kuzak,Y,Quiskamp,507,Bowline St,8x0,Jordan,MN,55352
+57,139,624020510,Kuzak,Y,Quiskamp,507,Bowline St,8x0,Jordan,MN,55352
+59,127,182221061,Smuda,P,Ross,617,Hintonsmith St,0d3,Liberty,NY,12754
+59,59,182221061,Smuda,P,Ross,617,Hintonsmith St,0d3,Liberty,NY,12754
+59,125,182221061,Smuda,P,Ross,617,Hintonsmith St,0d3,Liberty,NY,12754
+59,104,182221061,Smuda,P,Ross,617,Hintonsmith St,0d3,Liberty,NY,12754
+59,105,182221061,Smuda,P,Ross,617,Hintonsmith St,0d3,Liberty,NY,12754
+59,96,182221061,Smuda,P,Ross,617,Hintonsmith St,0d3,Liberty,NY,12754
+59,109,182221061,Smuda,P,Ross,617,Hintonsmith St,0d3,Liberty,NY,12754
+66,149,713461786,Phillips,D,Mckeen,319,Archaimbaud Pkwy,7d8,Lew Beach,NY,12753
+66,125,713461786,Phillips,D,Mckeen,319,Archaimbaud Pkwy,7d8,Lew Beach,NY,12753
+66,66,713461786,Phillips,D,Mckeen,319,Archaimbaud Pkwy,7d8,Lew Beach,NY,12753
+66,103,713461786,Phillips,D,Mckeen,319,Archaimbaud Pkwy,7d8,Lew Beach,NY,12753
+66,110,713461786,Phillips,D,Mckeen,319,Archaimbaud Pkwy,7d8,Lew Beach,NY,12753
+71,103,703377785,Carree,G,Vin,278,Nilesh St,1w4,Norwood,LA,70761
+71,73,703377785,Carree,G,Vin,278,Nilesh St,1w4,Norwood,LA,70761
+71,71,703377785,Carree,G,Vin,278,Nilesh St,1w4,Norwood,LA,70761
+74,154,460625236,Nuessle,K,Forg,916,Mallika St,0c1,Malibu,CA,90265
+74,74,460625236,Nuessle,K,Forg,916,Mallika St,0c1,Malibu,CA,90265
+74,151,460625236,Nuessle,K,Forg,916,Mallika St,0c1,Malibu,CA,90265
+74,141,460625236,Nuessle,K,Forg,916,Mallika St,0c1,Malibu,CA,90265
+74,131,460625236,Nuessle,K,Forg,916,Mallika St,0c1,Malibu,CA,90265
+79,79,363527107,Zaia,W,Ruehl,730,Noriega,8w1,Portland,OR,97216
+79,86,363527107,Zaia,W,Ruehl,730,Noriega,8w1,Portland,OR,97216
+81,81,364636686,Lorens,M,Sourisseau,516,Brodie Avenue,4p4,Oak Bluffs,MA,02557
+81,159,364636686,Lorens,M,Sourisseau,516,Brodie Avenue,4p4,Oak Bluffs,MA,02557
+81,96,364636686,Lorens,M,Sourisseau,516,Brodie Avenue,4p4,Oak Bluffs,MA,02557
+81,123,364636686,Lorens,M,Sourisseau,516,Brodie Avenue,4p4,Oak Bluffs,MA,02557
+81,147,364636686,Lorens,M,Sourisseau,516,Brodie Avenue,4p4,Oak Bluffs,MA,02557
+81,148,364636686,Lorens,M,Sourisseau,516,Brodie Avenue,4p4,Oak Bluffs,MA,02557
+81,86,364636686,Lorens,M,Sourisseau,516,Brodie Avenue,4p4,Oak Bluffs,MA,02557
+81,144,364636686,Lorens,M,Sourisseau,516,Brodie Avenue,4p4,Oak Bluffs,MA,02557
+89,108,787312138,Harbans,S,Madras,681,Wiltfong Pkwy,0o2,Hohenwald,TN,38462
+89,89,787312138,Harbans,S,Madras,681,Wiltfong Pkwy,0o2,Hohenwald,TN,38462
+91,114,505606320,Poirier,U,Emad,608,Kirste Street,0c8,Del Rio,TX,78842
+91,115,505606320,Poirier,U,Emad,608,Kirste Street,0c8,Del Rio,TX,78842
+91,160,505606320,Poirier,U,Emad,608,Kirste Street,0c8,Del Rio,TX,78842
+91,143,505606320,Poirier,U,Emad,608,Kirste Street,0c8,Del Rio,TX,78842
+91,138,505606320,Poirier,U,Emad,608,Kirste Street,0c8,Del Rio,TX,78842
+91,186,505606320,Poirier,U,Emad,608,Kirste Street,0c8,Del Rio,TX,78842
+91,115,505606320,Poirier,U,Emad,608,Kirste Street,0c8,Del Rio,TX,78842
+91,124,505606320,Poirier,U,Emad,608,Kirste Street,0c8,Del Rio,TX,78842
+91,91,505606320,Poirier,U,Emad,608,Kirste Street,0c8,Del Rio,TX,78842
