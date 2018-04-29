@@ -1,6 +1,6 @@
 ### Function dependences discover - home work for database system
 
-An implementation of TANE algorithm to discover function dependences from data. 
+An implementation of [TANE](https://www.lri.fr/~pierres/donn%E9es/save/these/articles/lpr-queue/huhtala99tane.pdf) algorithm to discover function dependences from data. 
 
 ##### Files:
 
